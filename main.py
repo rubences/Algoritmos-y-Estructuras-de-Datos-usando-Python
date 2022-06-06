@@ -1,4 +1,4 @@
-from pythonds3.basic import Deque
+from pythonds3.basic.deque import Deque
 
 
 def pal_checker(a_string):
